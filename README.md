@@ -221,21 +221,9 @@ was successfully validated.
 
 ## Screenshots
 
-Add your screenshots inside:
+### Model Performance Results
 
-```text
-screenshots/
-```
-
-Then display them like:
-
-```markdown
-![Home Page](screenshots/home.png)
-
-![Prediction Result](screenshots/result.png)
-```
-
----
+![Results](screenshots/result.png)
 
 ## Future Improvements
 
