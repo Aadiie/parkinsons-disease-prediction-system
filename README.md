@@ -225,6 +225,9 @@ was successfully validated.
 
 ![Results](screenshots/result.png)
 
+<img width="939" height="756" alt="image" src="https://github.com/user-attachments/assets/a390d344-5fcc-4df1-abf0-b3854cd7386d" />
+
+
 ## Future Improvements
 
 - MRI integration
